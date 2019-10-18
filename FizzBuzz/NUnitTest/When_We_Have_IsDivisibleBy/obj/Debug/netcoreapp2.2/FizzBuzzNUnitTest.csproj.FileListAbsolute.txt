@@ -1,0 +1,17 @@
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\bin\Debug\netcoreapp2.2\FizzBuzzNUnitTest.deps.json
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\bin\Debug\netcoreapp2.2\FizzBuzzNUnitTest.runtimeconfig.json
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\bin\Debug\netcoreapp2.2\FizzBuzzNUnitTest.runtimeconfig.dev.json
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\bin\Debug\netcoreapp2.2\FizzBuzzNUnitTest.dll
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\bin\Debug\netcoreapp2.2\FizzBuzzNUnitTest.pdb
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\bin\Debug\netcoreapp2.2\FizzBuzz.dll
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\bin\Debug\netcoreapp2.2\FizzBuzz.pdb
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\obj\Debug\netcoreapp2.2\FizzBuzzNUnitTest.csprojAssemblyReference.cache
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\obj\Debug\netcoreapp2.2\FizzBuzzNUnitTest.csproj.CoreCompileInputs.cache
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\obj\Debug\netcoreapp2.2\FizzBuzzNUnitTest.AssemblyInfoInputs.cache
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\obj\Debug\netcoreapp2.2\FizzBuzzNUnitTest.AssemblyInfo.cs
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\obj\Debug\netcoreapp2.2\FizzBuzzNUnitTest.csproj.CopyComplete
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\obj\Debug\netcoreapp2.2\FizzBuzzNUnitTest.dll
+C:\Dev\Kata\FizzBuzz\FizzBuzz\FizzBuzz\NUnitTest\When_We_Have_IsDivisibleBy\obj\Debug\netcoreapp2.2\FizzBuzzNUnitTest.pdb
